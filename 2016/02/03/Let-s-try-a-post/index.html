@@ -79,7 +79,7 @@
     motion: true,
     duoshuo: {
       userId: 0,
-      author: '博主'
+      author: 'Author'
     }
   };
 </script>
@@ -87,7 +87,7 @@
   <title> Let's try a post | C.Jian's Portfolio </title>
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="">
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
 
   
 
@@ -140,7 +140,17 @@
             
               <i class="menu-item-icon fa fa-home fa-fw"></i> <br />
             
-            首頁
+            Home
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-user fa-fw"></i> <br />
+            
+            About
           </a>
         </li>
       
@@ -150,17 +160,7 @@
             
               <i class="menu-item-icon fa fa-archive fa-fw"></i> <br />
             
-            歸檔
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-tags">
-          <a href="/tags" rel="section">
-            
-              <i class="menu-item-icon fa fa-tags fa-fw"></i> <br />
-            
-            標籤
+            Archives
           </a>
         </li>
       
@@ -215,7 +215,7 @@
             <span class="post-meta-item-icon">
               <i class="fa fa-calendar-o"></i>
             </span>
-            <span class="post-meta-item-text">發表於</span>
+            <span class="post-meta-item-text">Posted on</span>
             <time itemprop="dateCreated" datetime="2016-02-03T15:13:05+08:00" content="2016-02-03">
               2016-02-03
             </time>
@@ -301,10 +301,10 @@
       
         <ul class="sidebar-nav motion-element">
           <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
-            文章目錄
+            Table of Contents
           </li>
           <li class="sidebar-nav-overview" data-target="site-overview">
-            本站概覽
+            Overview
           </li>
         </ul>
       
@@ -321,7 +321,7 @@
           <div class="site-state-item site-state-posts">
             <a href="/archives">
               <span class="site-state-item-count">1</span>
-              <span class="site-state-item-name">文章</span>
+              <span class="site-state-item-name">posts</span>
             </a>
           </div>
           
@@ -329,10 +329,10 @@
 
           
             <div class="site-state-item site-state-tags">
-              <a href="/tags">
+              
                 <span class="site-state-item-count">1</span>
-                <span class="site-state-item-name">標籤</span>
-              </a>
+                <span class="site-state-item-name">tags</span>
+              
             </div>
           
 
@@ -363,7 +363,7 @@
               
             
             
-              <p class="post-toc-empty">此文章未包含目錄</p>
+              <p class="post-toc-empty">This post does not have a Table of Contents</p>
             
           </div>
           <div class="post-toc-indicator-bottom post-toc-indicator">
@@ -393,11 +393,11 @@
 </div>
 
 <div class="powered-by">
-  由 <a class="theme-link" href="http://hexo.io">Hexo</a> 強力驅動
+  Powered by <a class="theme-link" href="http://hexo.io">Hexo</a>
 </div>
 
 <div class="theme-info">
-  主題 -
+  Theme -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.Muse
   </a>
