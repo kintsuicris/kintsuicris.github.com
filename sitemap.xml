@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cjian.info/about/index.html</loc>
+    
+    <lastmod>2016-03-10T12:48:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cjian.info/2016/02/28/My-Portfolio-Experience-Design/</loc>
+    
+    <lastmod>2016-03-10T12:46:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://cjian.info/2016/03/08/Guest-Talk-Int-l-Advertising/</loc>
     
     <lastmod>2016-03-10T12:35:13.000Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://cjian.info/2016/03/06/Midterm-Summary-COMM7570/</loc>
     
     <lastmod>2016-03-10T12:35:08.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://cjian.info/2016/02/28/My-Portfolio-Experience-Design/</loc>
-    
-    <lastmod>2016-03-10T12:32:43.000Z</lastmod>
     
   </url>
   
@@ -75,13 +82,6 @@
     <loc>http://cjian.info/2016/02/04/Hexo-post-asset-folder/</loc>
     
     <lastmod>2016-02-07T09:55:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://cjian.info/about/index.html</loc>
-    
-    <lastmod>2016-02-04T19:37:50.000Z</lastmod>
     
   </url>
   
