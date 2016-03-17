@@ -934,8 +934,8 @@ pre .javascript .function {
 }
 .site-subtitle {
   margin-top: 10px;
-  font-size: 13px;
-  color: #999;
+  font-size: 15px;
+  color: #666;
 }
 .use-motion .brand {
   opacity: 0;
@@ -1528,7 +1528,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff400d;
+  background: #ed2f20;
 }
 .sidebar-nav {
   margin: 0 0 20px;
