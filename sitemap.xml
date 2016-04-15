@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cjian.info/about/index.html</loc>
+    
+    <lastmod>2016-04-15T09:09:37.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cjian.info/2016/04/13/COMM7030-lec8-13th-Apr/</loc>
+    
+    <lastmod>2016-04-13T13:32:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cjian.info/2016/04/06/COMM7030-6th-Apr/</loc>
+    
+    <lastmod>2016-04-13T11:58:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cjian.info/2016/04/08/Reporting-World-Religions-JOUR7080/</loc>
+    
+    <lastmod>2016-04-08T11:47:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://cjian.info/2016/03/18/Freelancing-Journalism-JOUR7080/</loc>
     
-    <lastmod>2016-03-18T12:18:21.000Z</lastmod>
+    <lastmod>2016-04-08T10:39:39.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cjian.info/2016/03/02/COMM7030-2rd-Mar/</loc>
+    
+    <lastmod>2016-04-06T11:30:51.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cjian.info/2016/02/04/Markdown-writing-skills/</loc>
+    
+    <lastmod>2016-04-01T03:58:27.000Z</lastmod>
     
   </url>
   
@@ -12,13 +54,6 @@
     <loc>http://cjian.info/2016/02/28/My-Portfolio-Experience-Design/</loc>
     
     <lastmod>2016-03-17T08:02:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://cjian.info/about/index.html</loc>
-    
-    <lastmod>2016-03-17T07:44:03.000Z</lastmod>
     
   </url>
   
@@ -61,20 +96,6 @@
     <loc>http://cjian.info/2016/03/04/4th-Mar-JOUR7080/</loc>
     
     <lastmod>2016-03-04T12:21:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://cjian.info/2016/02/04/Markdown-writing-skills/</loc>
-    
-    <lastmod>2016-03-04T05:05:00.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://cjian.info/2016/03/02/COMM7030-2rd-Mar/</loc>
-    
-    <lastmod>2016-03-02T13:56:54.000Z</lastmod>
     
   </url>
   
